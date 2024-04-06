@@ -1,4 +1,4 @@
-export const links = [
+const links = [
     {
         name: 'Home',
         path: '/',
@@ -29,3 +29,5 @@ export const links = [
 
     },
 ]
+
+export default links;
